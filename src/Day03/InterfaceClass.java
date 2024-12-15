@@ -1,7 +1,7 @@
 package Day03;
 
 interface a {
-
+	void sound();
 }
 
 public class InterfaceClass {
